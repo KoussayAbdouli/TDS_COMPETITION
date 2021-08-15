@@ -1,3 +1,0 @@
-"# TDS_COMPETITION" 
-# TDSHack4Data
-C:\Users\KOUSSAY\Desktop\TDS_COMPETITON
